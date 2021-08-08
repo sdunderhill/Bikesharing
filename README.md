@@ -51,3 +51,5 @@ After looking at the data for NYC we can determine the days of the week and what
 * What types of businesses are in the downtown area?
 * What is the makeup of the population of that area in reference to gender? This will give us an idea of who is most likely to use the bike share.
 * When is the weather the best for being outdoors? This will give us an idea of when our most profitable time will be.
+
+[link to dasboard](https://public.tableau.com/app/profile/sarah.underhill/viz/CitiBikebikesharing/CanbikesharingworkinDesMoines#1)
